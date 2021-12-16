@@ -1,5 +1,5 @@
 import splitargs
 
-args = splitargs.splitargs("This is \"an example\"")
+args = splitargs("This is \"an example\"")
 
 print(args) # ['This', 'is', 'an example']
