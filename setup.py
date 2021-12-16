@@ -10,7 +10,7 @@ with open(README_FILEPATH, 'r') as fio:
 setuptools.setup(
     name='splitargs',
     packages=['splitargs'],
-    version='0.0.0',
+    version='0.0.1',
     description="Split quoted arguments like commands do",
     long_description=long_description,
     long_description_content_type='text/markdown',
