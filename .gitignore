@@ -1,2 +1,4 @@
 /splitargs-env
 __pycache__
+/dist
+/splitargs.egg-info
